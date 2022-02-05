@@ -1,7 +1,7 @@
 variable "whitelist" {
   type = list(string)
 }
-variabe "web_image_id" {
+variable "web_image_id" {
   type = string
 }
 variable "web_instance_type" {
